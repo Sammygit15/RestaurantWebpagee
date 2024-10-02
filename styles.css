@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: "Lobster", sans-serif;
+  border: 1px solid #110a0a;
+  background-color: rgb(130, 49, 49);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  line-height: 1.6;
+
+}
+
+header {
+  background-color:
+    rgb(204, 56, 58);
+  color: rgb(26, 15, 17);
+  border: 1px solid #110a0a;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 5px 0 20px 40px;
+
+
+}
+
+section {
+  margin: 30px;
+  padding: 10px 0 20px 40px;
+  background-color: rgb(169, 61, 61);
+  border: 1px solid #110a0a;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+
+}
+
+section h2 {
+  color: beige;
+  margin-bottom: 10px;
+}
+
+section p {
+  color: #1b0c0e;
+  font-size: 1.2 rem;
+
+}
+
+ul {
+  margin: 30px;
+  padding: 10px 0 20px 40px;
+  background-color: rgb(169, 61, 61);
+  border: 1px solid #110a0a;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+
+
+
+}
+
+img {
+  display: block;
+  max-width: calc(20% - 30px);
+  margin: 20px auto;
+  border: #ddd;
+  padding: 10px;
+  margin: 0 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+
+}
+
+footer {
+  background-color: #886c6c;
+  padding: 10px;
+
+
+
+
+}
